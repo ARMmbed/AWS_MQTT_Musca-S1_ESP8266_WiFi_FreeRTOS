@@ -3,7 +3,8 @@
   <created timestamp="2020-07-17T17:10:55" tool="cbuildgen 0.9.0"/>
 
   <info isLayer="false">
-    <description>Automatic generated project</description>
+    <name>AWS MQTT Demo</name>
+    <description>This demo application connects to AWS IoT through MQTT, subscribes to topics and publishes messages.</description>
     <category>Board, Cloud, IoT, Module, RTOS, Socket, WiFi</category>
     <keywords>AWS, Board, ESP8266, FreeRTOS, MQTT, Module, Musca-S1, RTOS, Socket, WiFi</keywords>
     <license>Apache 2.0, BSD 3-Clause, MIT</license>
